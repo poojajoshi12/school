@@ -6,6 +6,7 @@ export default class App extends Component {
     hand: 'right',
   }
 
+
   render() {
     return (
       <View>
